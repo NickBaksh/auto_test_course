@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonSeleniumCourse.iml" filepath="$PROJECT_DIR$/.idea/PythonSeleniumCourse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../auto_test_course/.idea/auto_test_course.iml" filepath="$PROJECT_DIR$/../auto_test_course/.idea/auto_test_course.iml" />
-    </modules>
-  </component>
-</project>
